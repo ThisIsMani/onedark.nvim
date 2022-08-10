@@ -346,7 +346,7 @@ hl.plugins.nvim_tree = {
     NvimTreeGitNew = colors.Green,
     NvimTreeGitDeleted = colors.Red,
     NvimTreeSpecialFile = { fg = c.yellow, fmt = "underline" },
-    NvimTreeIndentMarker = colors.LightGrey,
+    NvimTreeIndentMarker = colors.Fg,
     NvimTreeImageFile = { fg = c.dark_purple },
     NvimTreeSymlink = colors.Purple,
     NvimTreeFolderName = colors.Blue,
