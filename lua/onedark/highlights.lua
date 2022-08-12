@@ -154,7 +154,7 @@ hl.treesitter = {
   TSKeywordOperator = { fg = c.purple, fmt = cfg.code_style.keywords },
   TSLabel = colors.Red,
   TSMethod = colors.Blue,
-  TSNamespace = colors.Yellow,
+  TSNamespace = colors.Purple,
   TSNone = colors.Fg,
   TSNumber = colors.Orange,
   TSOperator = colors.Fg,
