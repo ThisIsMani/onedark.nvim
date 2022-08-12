@@ -33,7 +33,7 @@ return {
 		bg1 = "#fafafa",
 		bg2 = "#e6e6e6",
 		bg3 = "#dcdcdc",
-		bg_d = "#c9c9c9",
+		bg_d = "#fafafa",
 		bg_blue = "#68aee8",
 		bg_yellow = "#e2c792",
 		fg = "#383a42",
