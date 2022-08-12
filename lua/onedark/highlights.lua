@@ -161,7 +161,7 @@ hl.treesitter = {
   TSParameter = colors.Red,
   TSParameterReference = colors.Fg,
   TSProperty = colors.Cyan,
-  TSPunctDelimiter = colors.LightGrey,
+  TSPunctDelimiter = colors.Fg,
   TSPunctBracket = colors.LightGrey,
   TSPunctSpecial = colors.Red,
   TSRepeat = { fg = c.purple, fmt = cfg.code_style.keywords },
