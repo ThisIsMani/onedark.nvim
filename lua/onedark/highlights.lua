@@ -140,7 +140,7 @@ hl.treesitter = {
   TSConstant = colors.Orange,
   TSConstBuiltin = colors.Orange,
   TSConstMacro = colors.Orange,
-  TSConstructor = { fg = c.yellow, fmt = "bold" },
+  TSConstructor = { fg = c.blue, fmt = "bold" },
   TSError = colors.Fg,
   TSException = colors.Purple,
   TSField = colors.Red,
