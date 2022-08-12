@@ -143,7 +143,7 @@ hl.treesitter = {
   TSConstructor = { fg = c.yellow, fmt = "bold" },
   TSError = colors.Fg,
   TSException = colors.Purple,
-  TSField = colors.Cyan,
+  TSField = colors.Red,
   TSFloat = colors.Orange,
   TSFunction = { fg = c.blue, fmt = cfg.code_style.functions },
   TSFuncBuiltin = { fg = c.cyan, fmt = cfg.code_style.functions },
